@@ -1,0 +1,58 @@
+[
+  {
+    "id": "b1",
+    "title": "اليمن في التاريخ السياسي المعاصر",
+    "author": "مؤسسة الدراسات اليمنية",
+    "description": "مرجع تحليلي يتناول تطور البنية السياسية في اليمن الحديث مع التركيز على الدولة والجمهورية والوحدة.",
+    "category": "سياسي",
+    "era": "اليمن المعاصر بعد الوحدة",
+    "coverAsset": "assets/covers/default_yemen.png",
+    "externalUrl": "https://www.yemensy.org",
+    "source": "مؤسسة الدراسات اليمنية"
+  },
+  {
+    "id": "b2",
+    "title": "التحولات التاريخية في اليمن",
+    "author": "مركز الدراسات والبحوث اليمني",
+    "description": "كتاب يعرض أهم المراحل التاريخية التي مر بها اليمن منذ الدول القديمة وحتى العصر الحديث.",
+    "category": "تاريخي",
+    "era": "العصور القديمة والوسيطة",
+    "coverAsset": "assets/covers/default_yemen.png",
+    "externalUrl": "https://www.yemen-center.org",
+    "source": "مركز الدراسات والبحوث اليمني"
+  },
+  {
+    "id": "b3",
+    "title": "الحياة السياسية في اليمن الجمهوري",
+    "author": "باحثون متعدّدون",
+    "description": "دراسة لأهم الأحزاب والقوى السياسية في اليمن الجمهوري وصراعاتها وتحالفاتها.",
+    "category": "سياسي",
+    "era": "اليمن الجمهوري",
+    "coverAsset": "assets/covers/default_yemen.png",
+    "externalUrl": "https://www.al-jazirah.com/1999/19990312/cu9.htm",
+    "source": "مراجع وصحف عربية"
+  },
+  {
+    "id": "b4",
+    "title": "وثائق من الأرشيف العربي عن اليمن",
+    "author": "الأرشيف العربي",
+    "description": "مجموعة وثائق تاريخية وسياسية متاحة عبر منصات أرشيفية عربية حول اليمن.",
+    "category": "تاريخي",
+    "era": "القرن العشرون",
+    "coverAsset": "assets/covers/default_yemen.png",
+    "externalUrl": "https://www.archives.gov/research/alic/reference/arabic-resources",
+    "source": "موقع الأرشيف العربي ومصادر مفتوحة"
+  },
+  {
+    "id": "b5",
+    "title": "اليمن في الدراسات الأكاديمية",
+    "author": "جامعات يمنية وعربية",
+    "description": "فهرس لأبحاث وكتب أكاديمية عن اليمن منشورة في جامعات يمنية وعربية ودولية.",
+    "category": "تاريخي",
+    "era": "معاصر",
+    "coverAsset": "assets/covers/default_yemen.png",
+    "externalUrl": "https://books.google.com/?q=yemen+history",
+    "source": "Google Books ومواقع جامعية"
+  }
+]
+
